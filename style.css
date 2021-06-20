@@ -104,6 +104,7 @@ a:hover{
     position: absolute;
     display: inline-block;
     padding:60px 825px 50px 825px ;
+    user-select: none;
 
 }
 
