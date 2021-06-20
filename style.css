@@ -101,8 +101,9 @@ a:hover{
     background-color: white;
 }
 .pic{
+    position: absolute;
     display: inline-block;
-    margin: 70px 300px 10px 830px;
+    padding:60px 825px 50px 825px ;
 
 }
 
