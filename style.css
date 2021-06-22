@@ -113,3 +113,8 @@ a:hover{
     border-color: rgba(88, 95, 200, 0.8);
     border-radius: 10px;
 }
+@media screen and (max-width: 480px) {
+    .text {
+      font-size: 16px;
+    }
+  }
